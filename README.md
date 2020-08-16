@@ -47,6 +47,11 @@
 ### 📺 Latest YouTube Videos (Spanish)
 
 <!-- YOUTUBE:START -->
+- [Activar CANALES de ANUNCIOS, ESTADÍSTICAS, BIENVENIDAS... *Nueva Función* | Discord](https://www.youtube.com/watch?v=t9-N3Eg1Y_o)
+- [USAR EMOJIS DE NITRO sin tenerlo COMPRADO - Animados y Multi-Servidor | NQN](https://www.youtube.com/watch?v=KPlTtpvA9BA)
+- [SORTEO y EVENTO de TutoDiscord | Especial 1K Subs](https://www.youtube.com/watch?v=bxijDn42fn0)
+- [Hostear BOT GRATIS | Replit](https://www.youtube.com/watch?v=SP8bm0Ky-Ts)
+- [Poner MÚSICA en DISCORD | Bot Groovy](https://www.youtube.com/watch?v=U7qYx7k_YrQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UClIiGWJjW17_yszdChIM87g)
