@@ -67,7 +67,7 @@
 2. 🗣 Commented on [#1](https://github.com//ThePhoDit/DiscordEmojiManager/issues/1) in [ThePhoDit/DiscordEmojiManager](https://github.com//ThePhoDit/DiscordEmojiManager)
 3. 🎉 Merged PR [#1](https://github.com//ThePhoDit/TutoProDocs/pull/1) in [ThePhoDit/TutoProDocs](https://github.com//ThePhoDit/TutoProDocs)
 4. 🎉 Merged PR [#1](https://github.com//ThePhoDit/GForms-Discord-Webhook/pull/1) in [ThePhoDit/GForms-Discord-Webhook](https://github.com//ThePhoDit/GForms-Discord-Webhook)
-5. 🗣 Commented on [#1](https://github.com//ThePhoDit/GForms-Discord-Webhook/issues/1) in [ThePhoDit/GForms-Discord-Webhook](https://github.com//ThePhoDit/GForms-Discord-Webhook)
+5. undefined
 <!--END_SECTION:activity-->
 
 </details>
