@@ -58,6 +58,11 @@ add[<img align="left" alt="LDAP" width="26px" src="https://static.techbast.com/2
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com//ThePhoDit/DiscordEmojiManager/issues/1) in [ThePhoDit/DiscordEmojiManager](https://github.com//ThePhoDit/DiscordEmojiManager)
+2. 🗣 Commented on [#1](https://github.com//ThePhoDit/DiscordEmojiManager/issues/1) in [ThePhoDit/DiscordEmojiManager](https://github.com//ThePhoDit/DiscordEmojiManager)
+3. 🎉 Merged PR [#1](https://github.com//ThePhoDit/TutoProDocs/pull/1) in [ThePhoDit/TutoProDocs](https://github.com//ThePhoDit/TutoProDocs)
+4. 🎉 Merged PR [#1](https://github.com//ThePhoDit/GForms-Discord-Webhook/pull/1) in [ThePhoDit/GForms-Discord-Webhook](https://github.com//ThePhoDit/GForms-Discord-Webhook)
+5. 🗣 Commented on [#1](https://github.com//ThePhoDit/GForms-Discord-Webhook/issues/1) in [ThePhoDit/GForms-Discord-Webhook](https://github.com//ThePhoDit/GForms-Discord-Webhook)
 <!--END_SECTION:activity-->
 
 </details>
