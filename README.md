@@ -36,3 +36,12 @@
 ### My Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThePhoDit&count_private=true)](https://github.com/ThePhoDit)
+
+---
+
+### 📺 Latest YouTube Videos (Spanish)
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UClIiGWJjW17_yszdChIM87g)
