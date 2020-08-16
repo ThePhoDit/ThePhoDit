@@ -1,14 +1,16 @@
-# Hi! I'm Mario - aka ThePhoDit.
+### Hi! I'm Mario - aka ThePhoDit.
 
 [![Twitter](https://img.shields.io/twitter/follow/ThePhoDit?color=1da1f2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?user_id=1014057594317627393)
 [![Discord](https://img.shields.io/discord/627155835885191169?color=7289da&logo=discord&style=for-the-badge)](https://discord.gg/aUNhdFD)
 
-## Student and Young Developer
+# Student and Young Developer
 
 - 🤖 Working on a Discord Bot - [TutoPro](https://phodit.xyz)
 - 📖 Self learning about everything
 - 🎮 Love gaming
 - 📷 Like taking photos
+
+---
 
 ### Languages and Tools:
 
@@ -31,11 +33,14 @@
 [<img align="left" alt="ThePhoDit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mariete_photos/)
 
 <br />
-<br />
 
 ### My Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThePhoDit&count_private=true)](https://github.com/ThePhoDit)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePhoDit)](https://github.com/ThePhoDit)
 
 ---
 
@@ -45,3 +50,13 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UClIiGWJjW17_yszdChIM87g)
+
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
