@@ -21,12 +21,17 @@
 [<img align="left" alt="GitKraken" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/01/1.png" />](https://www.gitkraken.com/)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://eugeny.github.io/terminus/)
 
+<br />
+
 ### Know me Better:
 
 [<img align="left" alt="ThePhoDit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:phodit@phodit.net)
 [<img align="left" alt="ThePhoDit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UClIiGWJjW17_yszdChIM87g)
 [<img align="left" alt="ThePhoDit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ThePhoDit)
 [<img align="left" alt="ThePhoDit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mariete_photos/)
+
+<br />
+<br />
 
 ### My Stats
 
