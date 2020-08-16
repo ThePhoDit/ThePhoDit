@@ -48,11 +48,6 @@
 ### 📺 Latest YouTube Videos (Spanish)
 
 <!-- YOUTUBE:START -->
-- [Activar CANALES de ANUNCIOS, ESTADÍSTICAS, BIENVENIDAS... *Nueva Función* | Discord](https://www.youtube.com/watch?v=t9-N3Eg1Y_o)
-- [USAR EMOJIS DE NITRO sin tenerlo COMPRADO - Animados y Multi-Servidor | NQN](https://www.youtube.com/watch?v=KPlTtpvA9BA)
-- [SORTEO y EVENTO de TutoDiscord | Especial 1K Subs](https://www.youtube.com/watch?v=bxijDn42fn0)
-- [Hostear BOT GRATIS | Replit](https://www.youtube.com/watch?v=SP8bm0Ky-Ts)
-- [Poner MÚSICA en DISCORD | Bot Groovy](https://www.youtube.com/watch?v=U7qYx7k_YrQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UClIiGWJjW17_yszdChIM87g)
@@ -63,11 +58,6 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//ThePhoDit/DiscordEmojiManager/issues/1) in [ThePhoDit/DiscordEmojiManager](https://github.com//ThePhoDit/DiscordEmojiManager)
-2. 🗣 Commented on [#1](https://github.com//ThePhoDit/DiscordEmojiManager/issues/1) in [ThePhoDit/DiscordEmojiManager](https://github.com//ThePhoDit/DiscordEmojiManager)
-3. 🎉 Merged PR [#1](https://github.com//ThePhoDit/TutoProDocs/pull/1) in [ThePhoDit/TutoProDocs](https://github.com//ThePhoDit/TutoProDocs)
-4. 🎉 Merged PR [#1](https://github.com//ThePhoDit/GForms-Discord-Webhook/pull/1) in [ThePhoDit/GForms-Discord-Webhook](https://github.com//ThePhoDit/GForms-Discord-Webhook)
-5. undefined
 <!--END_SECTION:activity-->
 
 </details>
