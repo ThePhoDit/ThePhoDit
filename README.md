@@ -63,9 +63,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//ThePhoDit/ModMail/issues/1) in [ThePhoDit/ModMail](https://github.com//ThePhoDit/ModMail)
-2. ❗️ Closed issue [#1](https://github.com//ThePhoDit/DiscordEmojiManager/issues/1) in [ThePhoDit/DiscordEmojiManager](https://github.com//ThePhoDit/DiscordEmojiManager)
-3. 🗣 Commented on [#1](https://github.com//ThePhoDit/DiscordEmojiManager/issues/1) in [ThePhoDit/DiscordEmojiManager](https://github.com//ThePhoDit/DiscordEmojiManager)
+1. 🎉 Merged PR [#1](https://github.com//ThePhoDit/TwitterManager/pull/1) in [ThePhoDit/TwitterManager](https://github.com//ThePhoDit/TwitterManager)
+2. 🎉 Merged PR [#2](https://github.com//ThePhoDit/TwitterManager/pull/2) in [ThePhoDit/TwitterManager](https://github.com//ThePhoDit/TwitterManager)
+3. 🎉 Merged PR [#3](https://github.com//ThePhoDit/TwitterManager/pull/3) in [ThePhoDit/TwitterManager](https://github.com//ThePhoDit/TwitterManager)
 <!--END_SECTION:activity-->
 
 </details>
