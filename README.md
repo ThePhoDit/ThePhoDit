@@ -63,9 +63,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//Witless/topbot/pull/2) in [Witless/topbot](https://github.com//Witless/topbot)
-2. 🎉 Merged PR [#1](https://github.com//ThePhoDit/TwitterManager/pull/1) in [ThePhoDit/TwitterManager](https://github.com//ThePhoDit/TwitterManager)
-3. 🎉 Merged PR [#2](https://github.com//ThePhoDit/TwitterManager/pull/2) in [ThePhoDit/TwitterManager](https://github.com//ThePhoDit/TwitterManager)
+1. 🎉 Merged PR [#2](https://github.com//ThePhoDit/ModMail/pull/2) in [ThePhoDit/ModMail](https://github.com//ThePhoDit/ModMail)
+2. 💪 Opened PR [#2](https://github.com//Witless/topbot/pull/2) in [Witless/topbot](https://github.com//Witless/topbot)
+3. 🎉 Merged PR [#1](https://github.com//ThePhoDit/TwitterManager/pull/1) in [ThePhoDit/TwitterManager](https://github.com//ThePhoDit/TwitterManager)
 <!--END_SECTION:activity-->
 
 </details>
