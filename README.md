@@ -1,8 +1,7 @@
 ### Hi! I'm PhoDit.
 
-# Programmer
-
 - 💻 Interested in Python, JavaScript and Kotlin
 - 👀 Privacy and Security enthusiast
+- 🖊️ I write guides on [my blog](https://www.phodit.xyz) (Spanish)
 
 ---
